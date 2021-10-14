@@ -29,7 +29,7 @@ Technologies Used
 Clone the project
 
 ```bash
-  git clone git@github.com:schandrab22/ObjectdetectionwithYolo.git
+  git clone git@github.com:abhishek1990713/ObjectdetectionwithYolo.git
 ```
 
 Go to the project directory
